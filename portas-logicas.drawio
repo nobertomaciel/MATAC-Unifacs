@@ -29,9 +29,6 @@
         <mxCell id="U5XUHX68S6l7SQ64pwuD-5" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;rotation=-180;" value="" vertex="1">
           <mxGeometry height="20" width="100" x="100" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="U5XUHX68S6l7SQ64pwuD-9" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.square_wave;" value="" vertex="1">
-          <mxGeometry height="80" width="90" x="30" y="300" as="geometry" />
-        </mxCell>
         <mxCell id="U5XUHX68S6l7SQ64pwuD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
           <mxGeometry height="10" width="50" x="305" y="550" as="geometry" />
         </mxCell>
@@ -57,6 +54,15 @@
         </mxCell>
         <mxCell id="U5XUHX68S6l7SQ64pwuD-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="0v" vertex="1">
           <mxGeometry height="30" width="86" x="354" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="U5XUHX68S6l7SQ64pwuD-21" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.step_1;" value="" vertex="1">
+          <mxGeometry height="90" width="90" x="40" y="201" as="geometry" />
+        </mxCell>
+        <mxCell id="U5XUHX68S6l7SQ64pwuD-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="+1v" vertex="1">
+          <mxGeometry height="30" width="86" x="114" y="181" as="geometry" />
+        </mxCell>
+        <mxCell id="U5XUHX68S6l7SQ64pwuD-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="0v" vertex="1">
+          <mxGeometry height="30" width="86" x="114" y="271" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
