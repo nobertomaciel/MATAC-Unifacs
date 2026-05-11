@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="Página-1" id="Cj2KXm84kfzblpwx29CL">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Algebra-Booleana_Circuitos-Digitais" id="Cj2KXm84kfzblpwx29CL">
     <mxGraphModel dx="1191" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -294,6 +294,14 @@
             <mxRectangle height="40" width="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2spaM1Qo0KuBt_yS8bcs" name="SQL-Conjuntos">
+    <mxGraphModel dx="1012" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
